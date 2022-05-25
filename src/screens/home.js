@@ -1,15 +1,14 @@
 import React from 'react'
 import { View, StyleSheet } from 'react-native'
 import Hero from '../components/common/hero'
+import Prevention from '../components/common/prevention'
 import Text from '../components/text/text'
 
 const Home = () => {
     return (
         <View>
             <Hero />
-            <Text preset='h1'>
-                This is home
-            </Text>
+            <Prevention />
         </View>
     )
 }

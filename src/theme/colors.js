@@ -4,5 +4,6 @@ export const colors = {
     vilet: '#473F97',
     orange: '#FF4D58',
     lightBlue: '#4D79FF',
-    grey: '#838391'
+    grey: '#838391',
+    bg: '#56549E'
 };
